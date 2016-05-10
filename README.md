@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi Everyone!
+
+This is Rediat, your captain speaking from the flight control room.
